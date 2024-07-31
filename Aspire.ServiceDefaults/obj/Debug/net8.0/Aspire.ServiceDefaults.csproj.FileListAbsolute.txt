@@ -1,0 +1,12 @@
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.deps.json
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.dll
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.pdb
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.AssemblyInfo.cs
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.dll
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\refint\Aspire.ServiceDefaults.dll
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.pdb
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\ref\Aspire.ServiceDefaults.dll

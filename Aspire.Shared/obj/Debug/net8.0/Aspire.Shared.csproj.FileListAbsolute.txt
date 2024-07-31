@@ -1,0 +1,11 @@
+E:\Ashraf Work\Aspire\Aspire.Shared\bin\Debug\net8.0\Aspire.Shared.deps.json
+E:\Ashraf Work\Aspire\Aspire.Shared\bin\Debug\net8.0\Aspire.Shared.dll
+E:\Ashraf Work\Aspire\Aspire.Shared\bin\Debug\net8.0\Aspire.Shared.pdb
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.AssemblyInfoInputs.cache
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.AssemblyInfo.cs
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.csproj.CoreCompileInputs.cache
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.dll
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\refint\Aspire.Shared.dll
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.pdb
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\ref\Aspire.Shared.dll

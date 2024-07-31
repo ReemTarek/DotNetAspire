@@ -1,0 +1,45 @@
+﻿@page "/Countries"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject CountriesAPIClient CountriesApi
+
+<PageTitle>Countries</PageTitle>
+
+<h5>Countries DB</h5>
+
+
+@if (countriesList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var country in countriesList)
+            {
+                <tr>
+
+                    <td>@country.CountryID</td>
+                    <td>@country.CountryName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<CountriesModel>? countriesList;
+
+    protected override async Task OnInitializedAsync()
+    {
+        countriesList = await CountriesApi.GetCounteiesAsync();
+    }
+}
