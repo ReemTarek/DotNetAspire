@@ -51,5 +51,4 @@ E:\Ashraf Work\Aspire\Aspire.AppHost\obj\Debug\net8.0\Aspire.AppHost.pdb
 E:\Ashraf Work\Aspire\Aspire.AppHost\obj\Debug\net8.0\Aspire.AppHost.genruntimeconfig.cache
 E:\Ashraf Work\Aspire\Aspire.AppHost\obj\Debug\net8.0\ref\Aspire.AppHost.dll
 E:\Ashraf Work\Aspire\Aspire.AppHost\bin\Debug\net8.0\Aspire.Hosting.SqlServer.dll
-E:\Ashraf Work\Aspire\Aspire.AppHost\bin\Debug\net8.0\Prometheus.NetStandard.dll
 E:\Ashraf Work\Aspire\Aspire.AppHost\obj\Debug\net8.0\Aspire.AppHost.sourcelink.json

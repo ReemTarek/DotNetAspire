@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aspire.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+275779e9238bf9356cfe9022b05fcd6c5454e76e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5cb251b13faacb158565009a8fb63a18c9d8ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aspire.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aspire.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

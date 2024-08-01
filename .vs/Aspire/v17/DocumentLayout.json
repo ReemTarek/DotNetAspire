@@ -143,7 +143,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aspire.AppHost",
+              "Title": "Aspire.AppHost.csproj",
               "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\Aspire.AppHost.csproj",
               "RelativeDocumentMoniker": "Aspire.AppHost\\Aspire.AppHost.csproj",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\Aspire.AppHost.csproj",
@@ -200,7 +200,7 @@
               "RelativeDocumentMoniker": "Aspire.ApiService\\Program.cs",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Program.cs",
               "RelativeToolTip": "Aspire.ApiService\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T17:32:25.838Z",
               "EditorCaption": ""

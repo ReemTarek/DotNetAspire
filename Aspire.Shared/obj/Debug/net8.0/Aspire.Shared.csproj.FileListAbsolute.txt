@@ -9,3 +9,4 @@ E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.dll
 E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\refint\Aspire.Shared.dll
 E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.pdb
 E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\ref\Aspire.Shared.dll
+E:\Ashraf Work\Aspire\Aspire.Shared\obj\Debug\net8.0\Aspire.Shared.sourcelink.json
