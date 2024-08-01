@@ -7,76 +7,24 @@
       "RelativeMoniker": "D:0:0:{95AFEF3B-E5D9-43AD-863D-990F8A84EEF2}|Aspire.AppHost\\Aspire.AppHost.csproj|solutionrelative:aspire.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\dbaccess\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\dbaccess\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{95AFEF3B-E5D9-43AD-863D-990F8A84EEF2}|Aspire.AppHost\\Aspire.AppHost.csproj|e:\\ashraf work\\aspire\\aspire.apphost\\aspire.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95AFEF3B-E5D9-43AD-863D-990F8A84EEF2}|Aspire.AppHost\\Aspire.AppHost.csproj|solutionrelative:aspire.apphost\\aspire.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AFEF3B-E5D9-43AD-863D-990F8A84EEF2}|Aspire.AppHost\\Aspire.AppHost.csproj|e:\\ashraf work\\aspire\\aspire.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95AFEF3B-E5D9-43AD-863D-990F8A84EEF2}|Aspire.AppHost\\Aspire.AppHost.csproj|solutionrelative:aspire.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\data\\aspireapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\data\\aspireapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\aspire.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\aspire.apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\countriesapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\countriesapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\components\\pages\\countries.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\components\\pages\\countries.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|e:\\ashraf work\\aspire\\aspire.web\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F24B95C8-2C9E-4D36-BBDC-61A58923AE98}|Aspire.Web\\Aspire.Web.csproj|solutionrelative:aspire.web\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\data\\icountriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\data\\icountriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\data\\countriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\data\\countriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E6EEFA-F6B9-46A8-993E-DC4A7B67FB20}|Aspire.Shared\\Aspire.Shared.csproj|e:\\ashraf work\\aspire\\aspire.shared\\models\\countriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0E6EEFA-F6B9-46A8-993E-DC4A7B67FB20}|Aspire.Shared\\Aspire.Shared.csproj|solutionrelative:aspire.shared\\models\\countriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CC00836-E7EC-4A3A-93AB-454137BA603C}|Aspire.ServiceDefaults\\Aspire.ServiceDefaults.csproj|e:\\ashraf work\\aspire\\aspire.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CC00836-E7EC-4A3A-93AB-454137BA603C}|Aspire.ServiceDefaults\\Aspire.ServiceDefaults.csproj|solutionrelative:aspire.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|e:\\ashraf work\\aspire\\aspire.apiservice\\dbaccess\\isqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09D663E5-6C22-4E77-94BF-D9A9C5BF424B}|Aspire.ApiService\\Aspire.ApiService.csproj|solutionrelative:aspire.apiservice\\dbaccess\\isqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 274,
-          "SelectedChildIndex": 34,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,100 +142,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Aspire.ApiService.csproj",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Aspire.ApiService.csproj",
-              "RelativeDocumentMoniker": "Aspire.ApiService\\Aspire.ApiService.csproj",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Aspire.ApiService.csproj",
-              "RelativeToolTip": "Aspire.ApiService\\Aspire.ApiService.csproj",
+              "DocumentIndex": 1,
+              "Title": "Aspire.AppHost",
+              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\Aspire.AppHost.csproj",
+              "RelativeDocumentMoniker": "Aspire.AppHost\\Aspire.AppHost.csproj",
+              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\Aspire.AppHost.csproj",
+              "RelativeToolTip": "Aspire.AppHost\\Aspire.AppHost.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-30T17:17:53.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\appsettings.json",
-              "RelativeDocumentMoniker": "Aspire.AppHost\\appsettings.json",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\appsettings.json",
-              "RelativeToolTip": "Aspire.AppHost\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T16:27:12.832Z",
+              "WhenOpened": "2024-08-01T09:19:03.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Aspire.Web\\Components\\_Imports.razor",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\_Imports.razor",
-              "RelativeToolTip": "Aspire.Web\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T08:37:52.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Aspire.Web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Aspire.Web\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwB0AAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T08:29:20.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Countries.razor",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Pages\\Countries.razor",
-              "RelativeDocumentMoniker": "Aspire.Web\\Components\\Pages\\Countries.razor",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Pages\\Countries.razor",
-              "RelativeToolTip": "Aspire.Web\\Components\\Pages\\Countries.razor",
-              "ViewState": "AQIAACAAAAAAAAAAAAAewCoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T08:26:23.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CountriesModel.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Shared\\Models\\CountriesModel.cs",
-              "RelativeDocumentMoniker": "Aspire.Shared\\Models\\CountriesModel.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Shared\\Models\\CountriesModel.cs",
-              "RelativeToolTip": "Aspire.Shared\\Models\\CountriesModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "DocumentIndex": 4,
+              "Title": "AspireAPIDbContext.cs",
+              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\AspireAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Aspire.ApiService\\Data\\AspireAPIDbContext.cs",
+              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\AspireAPIDbContext.cs",
+              "RelativeToolTip": "Aspire.ApiService\\Data\\AspireAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:21:02.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CountriesAPIClient.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\CountriesAPIClient.cs",
-              "RelativeDocumentMoniker": "Aspire.Web\\CountriesAPIClient.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\CountriesAPIClient.cs",
-              "RelativeToolTip": "Aspire.Web\\CountriesAPIClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:19:45.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ServiceDefaults\\Extensions.cs",
-              "RelativeDocumentMoniker": "Aspire.ServiceDefaults\\Extensions.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ServiceDefaults\\Extensions.cs",
-              "RelativeToolTip": "Aspire.ServiceDefaults\\Extensions.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:18:57.756Z"
+              "WhenOpened": "2024-07-31T17:35:06.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -297,34 +174,10 @@
               "RelativeDocumentMoniker": "Aspire.AppHost\\Program.cs",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.AppHost\\Program.cs",
               "RelativeToolTip": "Aspire.AppHost\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:18:54.165Z",
+              "WhenOpened": "2024-07-31T17:34:01.008Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Aspire.Web\\Program.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Program.cs",
-              "RelativeToolTip": "Aspire.Web\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:18:41.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Aspire.Web\\Components\\Pages\\Weather.razor",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Aspire.Web\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwDAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T08:18:35.587Z"
             },
             {
               "$type": "Document",
@@ -334,97 +187,36 @@
               "RelativeDocumentMoniker": "Aspire.ApiService\\API.cs",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\API.cs",
               "RelativeToolTip": "Aspire.ApiService\\API.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:14:25.411Z",
+              "WhenOpened": "2024-07-31T17:33:24.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherApiClient.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\WeatherApiClient.cs",
-              "RelativeDocumentMoniker": "Aspire.Web\\WeatherApiClient.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.Web\\WeatherApiClient.cs",
-              "RelativeToolTip": "Aspire.Web\\WeatherApiClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:12:53.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICountriesData.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\ICountriesData.cs",
-              "RelativeDocumentMoniker": "Aspire.ApiService\\Data\\ICountriesData.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\ICountriesData.cs",
-              "RelativeToolTip": "Aspire.ApiService\\Data\\ICountriesData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:12:44.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Program.cs",
               "RelativeDocumentMoniker": "Aspire.ApiService\\Program.cs",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Program.cs",
               "RelativeToolTip": "Aspire.ApiService\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAACAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:12:23.804Z",
+              "WhenOpened": "2024-07-31T17:32:25.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CountriesData.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\CountriesData.cs",
-              "RelativeDocumentMoniker": "Aspire.ApiService\\Data\\CountriesData.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\Data\\CountriesData.cs",
-              "RelativeToolTip": "Aspire.ApiService\\Data\\CountriesData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T08:07:44.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\appsettings.json",
               "RelativeDocumentMoniker": "Aspire.ApiService\\appsettings.json",
               "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\appsettings.json",
               "RelativeToolTip": "Aspire.ApiService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T07:59:00.252Z",
+              "WhenOpened": "2024-07-31T17:32:16.406Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SqlDbContext.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\DbAccess\\SqlDbContext.cs",
-              "RelativeDocumentMoniker": "Aspire.ApiService\\DbAccess\\SqlDbContext.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\DbAccess\\SqlDbContext.cs",
-              "RelativeToolTip": "Aspire.ApiService\\DbAccess\\SqlDbContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T07:57:51.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ISqlDbContext.cs",
-              "DocumentMoniker": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\DbAccess\\ISqlDbContext.cs",
-              "RelativeDocumentMoniker": "Aspire.ApiService\\DbAccess\\ISqlDbContext.cs",
-              "ToolTip": "E:\\Ashraf Work\\Aspire\\Aspire.ApiService\\DbAccess\\ISqlDbContext.cs",
-              "RelativeToolTip": "Aspire.ApiService\\DbAccess\\ISqlDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T07:57:32.2Z"
             }
           ]
         },

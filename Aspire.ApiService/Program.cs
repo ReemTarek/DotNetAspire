@@ -1,6 +1,7 @@
 using Aspire.ApiService;
 using Aspire.ApiService.Data;
 using Aspire.ApiService.DbAccess;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +12,17 @@ builder.AddServiceDefaults();
 // Add services to the container.
 builder.Services.AddProblemDetails();
 //register countries service
-//builder.AddSqlServerClient("sqldb");
-builder.Services.AddSingleton<ISqlDbContext, SqlDbContext>();
-builder.Services.AddScoped<ICountriesData, CountriesData>();
+//builder.Services.AddDbContext<AspireAPIDbContext>(opt =>
+//{
+//    opt.UseSqlServer(builder.Configuration.GetConnectionString("AspireAPI"));
+//});
+builder.AddSqlServerClient("AspireAPICon");
+
+builder.AddSqlServerDbContext<AspireAPIDbContext>("AspireAPICon");
+
+//builder.Services.AddSingleton<ISqlDbContext, SqlDbContext>();
+//builder.Services.AddScoped<ICountriesData, CountriesData>();
+builder.Services.AddScoped<ICountriesService, CountriesService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

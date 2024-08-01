@@ -10,3 +10,4 @@ E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefa
 E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\refint\Aspire.ServiceDefaults.dll
 E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.pdb
 E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\ref\Aspire.ServiceDefaults.dll
+E:\Ashraf Work\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.sourcelink.json

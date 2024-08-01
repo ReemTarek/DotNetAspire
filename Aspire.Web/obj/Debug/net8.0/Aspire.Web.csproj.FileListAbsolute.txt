@@ -66,3 +66,4 @@ E:\Ashraf Work\Aspire\Aspire.Web\obj\Debug\net8.0\Aspire.Web.genruntimeconfig.ca
 E:\Ashraf Work\Aspire\Aspire.Web\obj\Debug\net8.0\ref\Aspire.Web.dll
 E:\Ashraf Work\Aspire\Aspire.Web\bin\Debug\net8.0\Aspire.Shared.dll
 E:\Ashraf Work\Aspire\Aspire.Web\bin\Debug\net8.0\Aspire.Shared.pdb
+E:\Ashraf Work\Aspire\Aspire.Web\obj\Debug\net8.0\Aspire.Web.sourcelink.json

@@ -9,11 +9,11 @@ namespace Aspire.ApiService
             //Products
             app.MapGet("/Countries", GetCountries);
         }
-        private static async Task<IResult> GetCountries(ICountriesData data)
+        private static async Task<IResult> GetCountries(ICountriesService data)
         {
             try
             {
-                return Results.Ok(await data.Countries_Get());
+                return Results.Ok(await data.GetTestObjList());
             }
             catch (Exception ex)
             {

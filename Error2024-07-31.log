@@ -1,0 +1,16 @@
+
+
+Date:2024-07-31 18:31:37,996
+Thread:[1]
+Level:ERROR
+Logger:InsertBlazorCode.SyncfusionCodeGeneratorMenuCommand                         [(null)]
+Message:System.NullReferenceException: Object reference not set to an instance of an object.
+   at InsertBlazorCode.SyncfusionCodeGeneratorMenuCommand.queryStatusMenuCommand_BeforeQueryStatus(Object sender, EventArgs e) in C:\Git\RP\vsext_insertblazorcode\SyncfusionBlazorcodegenerator\SyncfusionCodeGeneratorMenuCommand.cs:line 322
+
+
+Date:2024-07-31 18:35:10,273
+Thread:[1]
+Level:ERROR
+Logger:InsertBlazorCode.SyncfusionCodeGeneratorMenuCommand                         [(null)]
+Message:System.NullReferenceException: Object reference not set to an instance of an object.
+   at InsertBlazorCode.SyncfusionCodeGeneratorMenuCommand.queryStatusMenuCommand_BeforeQueryStatus(Object sender, EventArgs e) in C:\Git\RP\vsext_insertblazorcode\SyncfusionBlazorcodegenerator\SyncfusionCodeGeneratorMenuCommand.cs:line 322
